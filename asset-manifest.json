@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test_zadanie/static/css/main.b068bdef.css",
+    "main.js": "/test_zadanie/static/js/main.52ae7e89.js",
+    "static/media/income.png": "/test_zadanie/static/media/income.e863ed412ed191498087.png",
+    "static/media/lanch.jpg": "/test_zadanie/static/media/lanch.8e0c6a2e11ed3d850cd9.jpg",
+    "index.html": "/test_zadanie/index.html",
+    "main.b068bdef.css.map": "/test_zadanie/static/css/main.b068bdef.css.map",
+    "main.52ae7e89.js.map": "/test_zadanie/static/js/main.52ae7e89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b068bdef.css",
+    "static/js/main.52ae7e89.js"
+  ]
+}
